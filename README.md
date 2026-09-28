@@ -1,0 +1,1 @@
+# sistema-fecha-caixa-automatizado
